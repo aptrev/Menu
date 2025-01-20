@@ -1,3 +1,33 @@
 body {
-    color: hotpink;
+    color: black;
+}
+
+.title {
+    padding: 80px;
+}
+
+.h1 {
+    font-size: 100px;
+}
+
+.h2 {
+    font-family: "Lucida console", monospace;
+}
+
+.h4 {
+    font-family: "Brush Script MT", cursive; 
+}
+
+.motto {
+    text-align: center;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.button {
+    border-radius: 14px;
+    width: 75px;
+    box-shadow: 2px 2px 2px grey;
+    border: none;
 }
