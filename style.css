@@ -54,6 +54,8 @@ body {
 }
 
 .img-container {
+    margin-left: auto; 
+    display: block;
     width: 150px;
     height: 150px;
     overflow: hidden;
